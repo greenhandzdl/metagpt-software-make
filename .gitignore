@@ -217,5 +217,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# LLM key files (contains secrets)
+config/key.yaml
+
 # proj/ is a separate git repo
 /proj/
