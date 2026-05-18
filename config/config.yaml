@@ -1,0 +1,5 @@
+# MetaGPT LLM configuration — keys stored in .env only
+llm_provider: "openai"
+openai_base_url: "http://localhost:13000/v1"
+openai_api_model: "deepseek-ai/deepseek-v4-flash"
+timeout: 180

@@ -1,0 +1,1 @@
+"""MetaGPT multi-agent system for software development."""
